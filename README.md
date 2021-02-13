@@ -1,6 +1,6 @@
 Carbon
 ======
-[![Build Status](https://travis-ci.org/uniplaces/carbon.svg?branch=master)](https://travis-ci.org/uniplaces/carbon)
+[![Build Status](https://github.com/uniplaces/carbon/workflows/.github/workflows/Tests/badge.svg)](https://github.com/uniplaces/carbon/actions?query=workflow%3A.github%2Fworkflows%2Fpull_request.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/uniplaces/carbon)](https://goreportcard.com/report/github.com/uniplaces/carbon)
 [![codecov](https://codecov.io/gh/uniplaces/carbon/branch/master/graph/badge.svg)](https://codecov.io/gh/uniplaces/carbon)
 [![GoDoc](https://godoc.org/github.com/uniplaces/carbon?status.svg)](https://godoc.org/github.com/uniplaces/carbon)
